@@ -1,1 +1,1 @@
-# pizza_ordering_app
+# qtcreator-ui-errorhandling-pizza-ordering-app

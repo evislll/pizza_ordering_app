@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file>images/logos.png</file>
+        <file>images/phut.png</file>
+        <file>images/phwings.png</file>
+    </qresource>
+</RCC>
